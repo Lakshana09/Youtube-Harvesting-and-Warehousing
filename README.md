@@ -27,4 +27,8 @@ You can use SQL queries to join the tables in the SQL data warehouse and retriev
 ## 6.Display data in the Streamlit app: 
 Finally, you can display the retrieved data in the Streamlit app. You can use Streamlit's data visualization features to create charts and graphs to help users analyze the data.
 
+# Demo Link
+<https://youtu.be/f8iL2QmaeZw>
+
+
 

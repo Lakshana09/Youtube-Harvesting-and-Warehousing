@@ -17,7 +17,7 @@ YouTube Data Harvesting and Warehousing is a project that aims to allow users to
 Streamlit is a great choice for building data visualization and analysis tools quickly and easily. You can use Streamlit to create a simple UI where users can enter a YouTube channel ID, view the channel details, and select channels to migrate to the data warehouse.
 ## 2.Connect to the YouTube API:
 You'll need to use the YouTube API to retrieve channel and video data. You can use the Google API client library for Python to make requests to the API.
-![Alt text](Screenshot 2024-03-29 224446.png)
+
 ## 3.Store and Clean data : 
 Once you retrieve the data from the YouTube API, store it in a suitable format for temporary storage before migrating to the data warehouse. You can use pandas DataFrames or other in-memory data structures.
 ## 4.Migrate data to a SQL data warehouse:
